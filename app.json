@@ -11,13 +11,13 @@
     "env":
     {
       "NODE_ENV"        : "production",
-      "RPC_HOST"        : "XXX",
+      "RPC_HOST"        : "HOST_REPLACE_HERE",
       "RPC_PORT"        : "8545",
       "LISTENING_PORT"  : "30303",
-      "INSTANCE_NAME"   : "XXX",
+      "INSTANCE_NAME"   : "HOST_REPLACE_HERE",
       "CONTACT_DETAILS" : "",
-      "WS_SERVER"       : "wss://rpc.ethstats.net",
-      "WS_SECRET"       : "see http://forum.ethereum.org/discussion/2112/how-to-add-yourself-to-the-stats-dashboard-its-not-automatic",
+      "WS_SERVER"       : "WS_ENDPOINT",
+      "WS_SECRET"       : "WS_SECRET_VALUE",
       "VERBOSITY"       : 2
     }
   }
