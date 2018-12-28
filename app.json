@@ -14,7 +14,7 @@
       "RPC_HOST"        : "HOST_REPLACE_HERE",
       "RPC_PORT"        : "8545",
       "LISTENING_PORT"  : "30303",
-      "INSTANCE_NAME"   : "HOST_REPLACE_HERE",
+      "INSTANCE_NAME"   : "NAME_REPLACE_HERE",
       "CONTACT_DETAILS" : "",
       "WS_SERVER"       : "WS_ENDPOINT",
       "WS_SECRET"       : "WS_SECRET_VALUE",
